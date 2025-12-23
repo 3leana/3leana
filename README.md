@@ -1,16 +1,29 @@
-## Hi there 👋
+# Eleana Mita
 
-<!--
-**3leana/3leana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development student at Seneca Polytechnic specializing in full-stack web development and distributed systems.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, TypeScript, Python, SQL, C/C++
+
+**Frontend:** React, Tailwind CSS, HTML/CSS
+
+**Backend:** Node.js, Express, REST APIs
+
+**Cloud & DevOps:** AWS (EC2, ECS, S3, DynamoDB, RDS), Docker, CI/CD
+
+**Databases:** PostgreSQL, DynamoDB
+
+## Current Focus
+
+Building production-ready web applications with modern cloud architecture. Experienced in designing RESTful APIs, implementing CI/CD pipelines, and deploying scalable microservices on AWS.
+
+## Contact
+
+LinkedIn: [linkedin.com/in/eleana-mita](https://linkedin.com/in/eleana-mita)
+
+Portfolio: [your-link]
+
+---
+
+Open to Summer 2026 Software Engineering Internships
