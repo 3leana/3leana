@@ -6,7 +6,7 @@ Software Development student at Seneca Polytechnic specializing in full-stack we
 
 **Languages:** JavaScript, TypeScript, Python, SQL, C/C++
 
-**Frontend:** React, Tailwind CSS, HTML/CSS
+**Frontend:** React, Bootstrap, HTML/CSS
 
 **Backend:** Node.js, Express, REST APIs
 
@@ -22,7 +22,7 @@ Building production-ready web applications with modern cloud architecture. Exper
 
 LinkedIn: [linkedin.com/in/eleana-mita](https://linkedin.com/in/eleana-mita)
 
-Portfolio: [your-link]
+Portfolio: 
 
 ---
 
