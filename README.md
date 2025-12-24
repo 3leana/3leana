@@ -6,7 +6,7 @@ Software Development student at Seneca Polytechnic specializing in full-stack we
 
 **Languages:** JavaScript, TypeScript, Python, SQL, C/C++
 
-**Frontend:** React, Bootstrap, HTML/CSS
+**Frontend:** React, Tailwind CSS, HTML/CSS
 
 **Backend:** Node.js, Express, REST APIs
 
