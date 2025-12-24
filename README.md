@@ -10,9 +10,9 @@ Software Development student at Seneca Polytechnic specializing in full-stack we
 
 **Backend:** Node.js, Express, REST APIs
 
-**Cloud & DevOps:** AWS (EC2, ECS, S3, DynamoDB, RDS), Docker, CI/CD
+**Cloud & DevOps:** AWS (EC2, ECS, S3, DynamoDB, Cognito), Docker, CI/CD , Linux
 
-**Databases:** PostgreSQL, DynamoDB
+**Databases:** MySQL, Oracle (SQL)
 
 ## Current Focus
 
@@ -22,8 +22,8 @@ Building production-ready web applications with modern cloud architecture. Exper
 
 LinkedIn: [linkedin.com/in/eleana-mita](https://linkedin.com/in/eleana-mita)
 
-Portfolio: 
+Portfolio: []
 
 ---
 
-Open to Summer 2026 Software Engineering Internships
+Open to Summer 2026 Software Engineering/Developer Internships
