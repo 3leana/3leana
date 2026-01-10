@@ -22,7 +22,7 @@ Building production-ready web applications with modern cloud architecture. Exper
 
 LinkedIn: [linkedin.com/in/eleana-mita](https://linkedin.com/in/eleana-mita)
 
-Portfolio: []
+Portfolio: [eleanamita.com](https://eleanamita.com)
 
 ---
 
